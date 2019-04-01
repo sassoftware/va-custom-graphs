@@ -1,7 +1,6 @@
 # Visual Analytics Custom Graph Examples
 
-The SAS Graph Builder enables users to create custom graphs that can be used as a graph object within a SAS Visual Analytics report.   
-The content here are examples of custom graphs referenced in SAS Communities articles. 
+The SAS Graph Builder enables users to create custom graphs that can be used as a graph object within a SAS Visual Analytics report.  The content here are examples of custom graphs referenced in SAS Communities articles. 
 
 Descriptions, source code and supporting ETL for each custom graph are located in the "Examples" folder subdirectories. 
 
