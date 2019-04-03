@@ -2,7 +2,7 @@ The ability to combine multiple graphs together to create new and unique visuali
 
 ![](./water_temps_graph.png)
 
-Get the details on the graph's source data and how to re-create this chart in this SAS Communities Library [article](https://communities.sas.com/t5/SAS-Communities-Library/How-to-create-a-butterfly-line-chart-in-SAS-Visual-Analytics/ta-p/489398).
+Get the details on the graph's source data and how to re-create this chart in this SAS Communities Library [article](https://communities.sas.com/t5/SAS-Communities-Library/3-steps-to-building-a-monthly-temperature-comparison-chart/ta-p/544702).
 
 This directory contains the needed resources to recreate this custom graph including:
 * A simulated data set of water temperatures - simulated_water_temps.sas7bdat
