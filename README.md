@@ -29,6 +29,41 @@ Some examples of this repository's custom graphs and their respectice SAS Commun
 
     ![](./Examples/US-map-tile-chart/VACustomGraph_MAP.png)    
 
+*  Trend Comparison Line Plot
+    * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/3-steps-to-build-a-trend-comparison-line-plot-in-SAS-Visual/ta-p/533266)
+    * [Repository location](./Examples/Comparing-yearly-trends)
+
+    ![](./Examples/Comparing-yearly-trends/trend_comparison.png)  
+    
+*  Butterfly Line Chart
+    * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/How-to-create-a-butterfly-line-chart-in-SAS-Visual-Analytics/ta-p/489398)
+    * [Repository location](./Examples/butterfly-line-chart)
+
+    ![](./Examples/butterfly-line-chart/butterfly_line_chart.png)        
+    
+*  Comparing Two Metrics 
+    * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/Comparing-similar-metrics-using-SAS-Visual-Analytics-custom/ta-p/507005)
+    * [Repository location](./Examples/comparing-two-metrics)
+
+    ![](./Examples/comparing-two-metrics/compare_similar_metrics.png)      
+    
+*  Creating Custom Labels
+    * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/3-steps-to-label-specific-data-points-in-SAS-Visual-Analytics/ta-p/505057)
+    * [Repository location](./Examples/creating_custom_labels)
+
+    ![](./Examples/creating_custom_labels/creating_custom_labels.png)          
+    
+*  Comparing Ranks Over Time
+    * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/Ranking-states-by-turkey-production-using-SAS-Visual-Analytics/ta-p/514552)
+    * [Repository location](./Examples/Yearly-Ranking-Graph)
+
+    ![](./Examples/Yearly-Ranking-Graph/yearly_ranking_graph.png)        
+    
+*  Monthly Temperature Comparison Chart
+    * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/3-steps-to-building-a-monthly-temperature-comparison-chart/ta-p/544702)
+    * [Repository location](./Examples/water_temp_comparison)
+
+    ![](./Examples/water_temp_comparison/water_temps_graph.png)         
 
 ## Contributing
 
