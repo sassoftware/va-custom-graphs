@@ -63,7 +63,14 @@ Some examples of this repository's custom graphs and their respectice SAS Commun
     * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/3-steps-to-building-a-monthly-temperature-comparison-chart/ta-p/544702)
     * [Repository location](./Examples/water_temp_comparison)
 
-    ![](./Examples/water_temp_comparison/water_temps_graph.png)         
+    ![](./Examples/water_temp_comparison/water_temps_graph.png)
+    
+*  Temperature Range Vector Plot
+    * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/Is-summer-over-already-Time-to-create-a-custom-vector-plot-in/ta-p/231253)
+    * [Repository location](./Examples/Temperature_Range_Vector_Plot)
+
+    ![](./Examples/Temperature_Range_Vector_Plot/Temperature_Range_Vector_Plot.png)         
+    
 
 ## Contributing
 
