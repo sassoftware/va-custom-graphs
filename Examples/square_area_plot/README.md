@@ -6,6 +6,7 @@ Get the details on the graph's source data and how to re-create this chart in th
 
 This directory contains the needed resources to recreate this custom graph including:
 * The data template needed to create the blocks - sqg_template.sas7bdat
+* A simulated source dataset - simulated_soda_data.sas7bdat
 * The code to which creates the final soda_percentage data set - square_area_soda_ETL.sas
 * The completed output data set (sourced from the simulated data set) - soda_square_area_graph.sas7bdat
 * A JSON file containing the completed custom graph - Square_Area_Plot_CG.json
