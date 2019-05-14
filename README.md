@@ -38,8 +38,8 @@ Some examples of this repository's custom graphs and their respectice SAS Commun
 *  Butterfly Line Chart
     * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/How-to-create-a-butterfly-line-chart-in-SAS-Visual-Analytics/ta-p/489398)
     * [Repository location](./Examples/butterfly-line-chart)
-
-    ![](./Examples/butterfly-line-chart/butterfly_line_chart.png)        
+    
+    <img src="./Examples/butterfly-line-chart/butterfly_line_chart.png" width="655">
     
 *  Comparing Two Metrics 
     * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/Comparing-similar-metrics-using-SAS-Visual-Analytics-custom/ta-p/507005)
