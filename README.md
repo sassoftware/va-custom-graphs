@@ -69,7 +69,7 @@ Some examples of this repository's custom graphs and their respectice SAS Commun
     * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/Is-summer-over-already-Time-to-create-a-custom-vector-plot-in/ta-p/231253)
     * [Repository location](./Examples/Temperature_Range_Vector_Plot)
 
-    ![](./Examples/Temperature_Range_Vector_Plot/Temperature_Range_Vector_Plot.png)         
+    <img src="./Examples/Temperature_Range_Vector_Plot/Temperature_Range_Vector_Plot.png" width="655">
     
 
 ## Contributing
