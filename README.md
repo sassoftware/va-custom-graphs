@@ -57,7 +57,7 @@ Some examples of this repository's custom graphs and their respectice SAS Commun
     * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/Ranking-states-by-turkey-production-using-SAS-Visual-Analytics/ta-p/514552)
     * [Repository location](./Examples/Yearly-Ranking-Graph)
 
-    ![](./Examples/Yearly-Ranking-Graph/yearly_ranking_graph.png)        
+        <img src="./Examples/Yearly-Ranking-Graph/yearly_ranking_graph.png" width="655">
     
 *  Monthly Temperature Comparison Chart
     * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/3-steps-to-building-a-monthly-temperature-comparison-chart/ta-p/544702)
