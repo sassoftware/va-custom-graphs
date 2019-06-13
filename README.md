@@ -47,6 +47,12 @@ Some examples of this repository's custom graphs and their respectice SAS Commun
 
     ![](./Examples/comparing-two-metrics/compare_similar_metrics.png)      
     
+*  Displaying Individual Data Values Within A Range 
+    * [SAS Communities article](https://communities.sas.com/t5/SAS-Visual-Analytics-Gallery/Displaying-Individual-Data-Values-And-Labels-Within-A-Range/ta-p/565417)
+    * [Repository location](./Examples/Display_Values_in_a_Range)
+
+    ![](./Examples/Display_Values_in_a_Range/Display_Values_in_a_Range.png)          
+    
 *  Creating Custom Labels
     * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/3-steps-to-label-specific-data-points-in-SAS-Visual-Analytics/ta-p/505057)
     * [Repository location](./Examples/creating_custom_labels)
