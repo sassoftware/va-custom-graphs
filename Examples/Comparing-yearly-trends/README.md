@@ -1,13 +1,12 @@
-Visualizing where specific data points are located within a data range can be challenging task.  Fortunately, we can build a custom graph to do this!  The graph below has vertical lines which display the data ranges (minimum and maximum) of nonresidential building fire damage by year.  It also has specific data points and labels for damage caused by heating, cooking and natural fires:
+This Visual Analytics Custom Graph compares the United States cumulative precipitation for last year against the total (so far) for this year.  Notice how I was able to get the dynamic reference line to be a dashed line.  This helps the report consumer know that this is only a reference line and not a line representing actual data.
 
-![](./Display_Values_in_a_Range.png)
+![](./trend_comparison.png)
 
-Using this graph, it’s very easy to see not only where these data points are located within their respective data ranges, but also what their individual values are.
-
-Data btained from this [Curriculum Pathways Data Depot resource](https://www.curriculumpathways.com/portal/#!/info/2600?id=3001&keyword=fire&sourceid=1164) and processed with SAS Visual Analytics 8.3.1.
+Get the details on the graph's source data and how to re-create this chart in this SAS Communities Library [article](https://communities.sas.com/t5/SAS-Communities-Library/3-steps-to-build-a-trend-comparison-line-plot-in-SAS-Visual/ta-p/533266).
 
 This branch contains the needed resources to recreate this custom graph including:
-* The code to which creates the final DisplayValueInRange data set - Display_Values_in_a_Range_ETL.sas
-* A simulated data that can be used as the report's data source  - displayvalueinrange.sas7bdat
-* A JSON file containing the custom graph - Display_Values_in_a_Range_CG.json
-* A JSON file containing the completed report - Display_Values_in_a_Range.json
+* A simulated data set precipitation  - simulated_precip_data.sas7bdat
+* The code to which creates the final report_ready data set - Trend_Comparison_Plot.sas
+* The completed output data set (sourced from the simulated dataset) - report_ready.sas7bdat
+* A JSON file containing the completed report - Trend_Comparison_Plot.json
+
