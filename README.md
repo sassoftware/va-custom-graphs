@@ -82,6 +82,12 @@ Some examples of this repository's custom graphs and their respectice SAS Commun
     * [Repository location](./Examples/FourMeasureBarChart)
 
     <img src="./Examples/FourMeasureBarChart/FourMeasuresBarChart_SC.png" width="655">
+    
+*  Bubble Plot with Guidelines
+    * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/Three-steps-to-building-a-bubble-plot-with-guidelines/ta-p/577432)
+    * [Repository location](./Examples/ScatterPlotGuidelines)
+
+    <img src="./Examples/ScatterPlotGuidelines/Scatter_Plot_Guidelines_SC.png" width="645">    
 
 ## Contributing
 
