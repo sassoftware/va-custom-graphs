@@ -2,7 +2,7 @@ I think bubble plots are one of the best ways to show relationships between the 
 
 Well I have good news!  Turns out, in we can build a custom bubble plot where we can add these guidelines.  Take a look at the graph below which compares the amount of forest area (in square kilometers) in different countries for the years 1990 and 2011.  Notice how the faded dashed lines assist the report consumer in seeing the locations of the data values on the x and y axes.  Pretty neat!
 
-![](./Display_Values_in_a_Range.png)
+![](./Scatter_Plot_Guidelines_SC.png)
 
 Using this graph, it’s very easy to see not only where these data points are located within their respective data ranges, but also what their individual values are.
 
