@@ -6,6 +6,8 @@ Well I have good news!  In the Custom Graph Builder we can build a bubble plot w
 
 Using this graph, it’s very easy to see not only where these data points are located within their respective data ranges, but also what their individual values are.
 
+Get the details on the graph's source data and how to re-create this chart in this SAS Communities Library [article](https://communities.sas.com/t5/SAS-Communities-Library/Three-steps-to-building-a-bubble-plot-with-guidelines/ta-p/577432).
+
 Data obtained from this [Curriculum Pathways Data Depot resource](https://www.curriculumpathways.com/portal/#!/info/2360?id=3001&keyword=forest&sourceid=56) and processed with SAS Visual Analytics 8.3.1.
 
 This branch contains the needed resources to recreate this custom graph including:
