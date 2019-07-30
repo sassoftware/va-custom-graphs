@@ -76,7 +76,12 @@ Some examples of this repository's custom graphs and their respectice SAS Commun
     * [Repository location](./Examples/Temperature_Range_Vector_Plot)
 
     <img src="./Examples/Temperature_Range_Vector_Plot/Temperature_Range_Vector_Plot.png" width="655">
-    
+
+*  Four Measure Bar Chart
+    * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/How-to-place-4-measures-on-the-same-SAS-Visual-Analytics-graph/ta-p/226336)
+    * [Repository location](./Examples/FourMeasureBarChart)
+
+    <img src="./Examples/FourMeasureBarChart/FourMeasuresBarChart_SC.png" width="655">
 
 ## Contributing
 
