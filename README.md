@@ -89,6 +89,12 @@ Some examples of this repository's custom graphs and their respectice SAS Commun
 
     <img src="./Examples/ScatterPlotGuidelines/Scatter_Plot_Guidelines_SC.png" width="645">    
 
+*  Adding Standard Deviation Error Bars to a Bar Chart
+    * [SAS Communities Gallery post](https://communities.sas.com/t5/SAS-Communities-Library/3-steps-to-label-specific-data-points-in-SAS-Visual-Analytics/ta-p/505057)
+    * [Repository location](./Examples/BarChartErrorBars)
+
+    ![](./Examples/BarChartErrorBars/BarChartWithErrorBars.png)  
+
 ## Contributing
 
 We welcome your contributions! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to submit contributions to this project.
