@@ -29,6 +29,12 @@ Some examples of this repository's custom graphs and their respectice SAS Commun
 
     ![](./Examples/US-map-tile-chart/VACustomGraph_MAP.png)    
 
+*  Monthly Temperature Comparison Strip Plot
+    * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/3-steps-to-building-a-monthly-temperature-strip-plot/ta-p/600800)
+    * [Repository location](./Examples/Strip-Plot)
+
+    ![](./Examples/Strip-Plot/WaterTemp_StripPlot.png)  
+
 *  Trend Comparison Line Plot
     * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/3-steps-to-build-a-trend-comparison-line-plot-in-SAS-Visual/ta-p/533266)
     * [Repository location](./Examples/Comparing-yearly-trends)
