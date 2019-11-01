@@ -4,7 +4,7 @@ I recently was revisiting the data I used to build a [monthly temperature compar
 
 I think these graphs are really cool!  Even though all the data points fall within one of the categorical values on the X axis, by adding some random noise (or jitter) to the data, you can see the distribution of the data points along the graph's y axis. 
 
-Get the details on the graph's source data and how to re-create this chart in this SAS Communities Library (article)[https://communities.sas.com/t5/SAS-Communities-Library/3-steps-to-building-a-monthly-temperature-strip-plot/ta-p/600800]
+Get the details on the graph's source data and how to re-create this chart in this SAS Communities Library [article](https://communities.sas.com/t5/SAS-Communities-Library/3-steps-to-building-a-monthly-temperature-strip-plot/ta-p/600800)
 
 This directory contains the needed resources to recreate this custom graph including:
 
