@@ -10,7 +10,7 @@ Get the details on the graph's source data and how to re-create this chart in th
 This directory contains the needed resources to recreate this custom graph including:
 
 * A simulated data set of water temperatures - simulated_water_temps.sas7bdat
-* The code to which creates the final water_temps_report data set - Strip_Plot_ETL.sas
+* The code to which creates the final waterTempStripPlot data set - Strip_Plot_ETL.sas
 * The completed output data set (sourced from the simulated data set) - waterTempStripPlot.sas7bdat
 * A JSON file containing the completed custom graph - Strip_Plot_CG.json
 * A JSON file containing the completed report - Strip_Plot.json
