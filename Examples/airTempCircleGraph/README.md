@@ -2,7 +2,7 @@ What you're ideal outdoor temperature to go for a jog?  For me, I think the best
 
 I began by opening the SAS Graph Builder and in just a few minutes, I was able to create the graph below. Each line represents the average air temperature for each day of the year.  The blue lines that extend inward represent days where the average temperature was BELOW than 65 degrees.  Conversely, the red lines that extend outward represent days where the average temperature was ABOVE 65 degrees.  The length of the lines represent the actual value of the average air temperature for each day.
 
-![](./airTempCircleGraph_700.png)
+![](./airTempCircleGraph_600.png)
 
 Data is obtained from the [USGS Water Services website](https://waterservices.usgs.gov/) (Credit: U.S. Geological Survey - Department of the Interior/USGS) and processed with with SAS Visual Analytics 8.5.
 
