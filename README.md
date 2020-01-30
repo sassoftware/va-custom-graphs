@@ -116,6 +116,7 @@ We welcome your contributions! Please read [CONTRIBUTING.md](CONTRIBUTING.md) fo
 This project is licensed under the [Apache 2.0 License](LICENSE).
 
 ## Additional Resources
+* [SAS Graph Builder 8.5: User’s Guide](https://go.documentation.sas.com/?cdcId=vacdc&cdcVersion=8.5&docsetId=grbldrug&docsetTarget=titlepage.htm&locale=en)
 * [SAS Graph Builder 8.3: User’s Guide](https://go.documentation.sas.com/api/docsets/grbldrug/8.3/content/grbldrug.pdf)
 * [SAS Visual Analytics 7.1: Creating and Using Custom Graph Objects ](http://support.sas.com/documentation/cdl/en/vaug/67500/HTML/default/viewer.htm#n1dk184ptuhv5zn1dx3iqjeu3h1p.htm)
 
