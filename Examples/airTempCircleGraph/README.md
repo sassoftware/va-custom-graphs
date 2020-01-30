@@ -4,6 +4,8 @@ I began by opening the SAS Graph Builder and in just a few minutes, I was able t
 
 ![](./airTempCircleGraph_700.png)
 
+Data is obtained from the [USGS Water Services website](https://waterservices.usgs.gov/) (Credit: U.S. Geological Survey - Department of the Interior/USGS) and processed with with SAS Visual Analytics 8.5.
+
 This directory contains the needed resources to recreate this custom graph including:
 * A simulated data set of air temperatures - simulatedairtemps.sas7bdat
 * The code to which creates the final airTempCircleData data set - airTempCircleGraph_ETL.sas
