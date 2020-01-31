@@ -36,7 +36,7 @@ Some examples of this repository's custom graphs and their respectice SAS Commun
     ![](./Examples/Strip-Plot/WaterTemp_StripPlot.png)  
 
 *  Air Temperature Circle Graph
-    
+   * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/3-Steps-to-Building-an-Air-Temperature-Circle-Graph/ta-p/620899)    
     * [Repository location](./Examples/airTempCircleGraph)
 
     ![](./Examples/airTempCircleGraph/airTempCircleGraph_600.png)  
