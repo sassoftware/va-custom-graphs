@@ -6,6 +6,8 @@ I began by opening the SAS Graph Builder and in just a few minutes, I was able t
 
 Data is obtained from the [USGS Water Services website](https://waterservices.usgs.gov/) (Credit: U.S. Geological Survey - Department of the Interior/USGS) and processed with with SAS Visual Analytics 8.5.
 
+Get the details on the source data and how to re-create this graph in this SAS Communities Library [article](https://communities.sas.com/t5/SAS-Communities-Library/3-Steps-to-Building-an-Air-Temperature-Circle-Graph/ta-p/620899).  
+
 This directory contains the needed resources to recreate this custom graph including:
 * A simulated data set of air temperatures - simulatedairtemps.sas7bdat
 * The code to which creates the final airTempCircleData data set - airTempCircleGraph_ETL.sas
