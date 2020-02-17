@@ -40,6 +40,13 @@ Some examples of this repository's custom graphs and their respectice SAS Commun
     * [Repository location](./Examples/airTempCircleGraph)
 
     ![](./Examples/airTempCircleGraph/airTempCircleGraph_600.png)  
+    
+
+*  Square Area Plot
+   * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/Three-steps-to-building-a-square-area-plot-in-SAS-Visual/ta-p/557966)    
+    * [Repository location](./Examples/square_area_plot)
+
+    ![](./Examples/square_area_plot/square_area_plot.png)  
 
 *  Trend Comparison Line Plot
     * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/3-steps-to-build-a-trend-comparison-line-plot-in-SAS-Visual/ta-p/533266)
