@@ -42,6 +42,12 @@ Some examples of this repository's custom graphs and their respectice SAS Commun
     ![](./Examples/airTempCircleGraph/airTempCircleGraph_600.png)  
     
 
+*  Bar Chart Heatmap
+   * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/Three-Steps-to-Building-a-Bar-Chart-Heatmap/ta-p/643020)    
+    * [Repository location](./Examples/barChartHeatmap)
+
+    ![](./Examples/barChartHeatmap/barChartHeatmap.gif)  
+
 *  Square Area Plot
    * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/Three-steps-to-building-a-square-area-plot-in-SAS-Visual/ta-p/557966)    
     * [Repository location](./Examples/square_area_plot)
