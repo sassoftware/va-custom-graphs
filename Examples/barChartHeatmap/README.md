@@ -4,7 +4,7 @@ One way to achieve this is to use the Graph Builder to combine a heat map and tw
 
 ![](./barChartHeatmap.gif)
 
-<!---Get the details on the graph's source data and how to re-create this chart in this SAS Communities Library [article](https://communities.sas.com/t5/SAS-Communities-Library/Three-steps-to-building-a-bubble-plot-with-guidelines/ta-p/577432).--->
+Get the details on the graph's source data and how to re-create this chart in this SAS Communities Library [article](https://communities.sas.com/t5/SAS-Communities-Library/Three-Steps-to-Building-a-Bar-Chart-Heatmap/ta-p/643020).
 
 This branch contains the needed resources to recreate this custom graph including:
 * The code to which creates the final barChartHeatmap data set - barChartHeatmap_ETL.sas
