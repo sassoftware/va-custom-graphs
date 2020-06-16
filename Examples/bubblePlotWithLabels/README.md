@@ -4,7 +4,7 @@ For example, if you have a standard bubble plot with several bubbles on it, cont
 
 ![](./bubblePlotWithLabels.png)
 
-Get the details on the graph's source data and how to re-create this chart in this SAS Communities Library [article](about:blank).
+Get the details on the graph's source data and how to re-create this chart in this SAS Communities Library [article](https://communities.sas.com/t5/SAS-Communities-Library/How-Upgrade-Your-VA-Bubble-Plots-With-Data-Labels/ta-p/660068).
 
 This directory contains the needed resources to recreate this custom graph including:
 * A JSON file containing the completed custom graph - bubblePlotWithLabels_CG.json
