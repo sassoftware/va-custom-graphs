@@ -89,13 +89,7 @@ Some examples of this repository's custom graphs and their respectice SAS Commun
     * [Repository location](./Examples/bubblePlotWithLabels)
 
     ![](./Examples/bubblePlotWithLabels/bubblePlotWithLabels.png)    
-
-*  Comparing Ranks Over Time
-    * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/Ranking-states-by-turkey-production-using-SAS-Visual-Analytics/ta-p/514552)
-    * [Repository location](./Examples/Yearly-Ranking-Graph)
-
-        <img src="./Examples/Yearly-Ranking-Graph/yearly_ranking_graph.png" width="655">
-    
+   
 *  Monthly Temperature Comparison Chart
     * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/3-steps-to-building-a-monthly-temperature-comparison-chart/ta-p/544702)
     * [Repository location](./Examples/water_temp_comparison)
@@ -119,6 +113,12 @@ Some examples of this repository's custom graphs and their respectice SAS Commun
     * [Repository location](./Examples/ScatterPlotGuidelines)
 
     <img src="./Examples/ScatterPlotGuidelines/Scatter_Plot_Guidelines_SC.png" width="645">    
+    
+*  Comparing Ranks Over Time
+    * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/Ranking-states-by-turkey-production-using-SAS-Visual-Analytics/ta-p/514552)
+    * [Repository location](./Examples/Yearly-Ranking-Graph)
+
+        <img src="./Examples/Yearly-Ranking-Graph/yearly_ranking_graph.png" width="655">
 
 *  Adding Standard Deviation Error Bars to a Bar Chart
     * [SAS Communities Gallery post](https://communities.sas.com/t5/SAS-Communities-Library/3-steps-to-label-specific-data-points-in-SAS-Visual-Analytics/ta-p/505057)
