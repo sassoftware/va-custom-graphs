@@ -83,7 +83,13 @@ Some examples of this repository's custom graphs and their respectice SAS Commun
     * [Repository location](./Examples/creating_custom_labels)
 
     ![](./Examples/creating_custom_labels/creating_custom_labels.png)          
-    
+
+*  Bubble Plot with Labels
+    * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/3-steps-to-label-specific-data-points-in-SAS-Visual-Analytics/ta-p/505057)
+    * [Repository location](./Examples/bubblePlotWithLabels)
+
+    ![](./Examples/bubblePlotWithLabels/bubblePlotWithLabels.png)    
+
 *  Comparing Ranks Over Time
     * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/Ranking-states-by-turkey-production-using-SAS-Visual-Analytics/ta-p/514552)
     * [Repository location](./Examples/Yearly-Ranking-Graph)
