@@ -85,7 +85,7 @@ Some examples of this repository's custom graphs and their respectice SAS Commun
     ![](./Examples/creating_custom_labels/creating_custom_labels.png)          
 
 *  Bubble Plot with Labels
-    * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/3-steps-to-label-specific-data-points-in-SAS-Visual-Analytics/ta-p/505057)
+    * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/How-Upgrade-Your-VA-Bubble-Plots-With-Data-Labels/ta-p/660068)
     * [Repository location](./Examples/bubblePlotWithLabels)
 
     ![](./Examples/bubblePlotWithLabels/bubblePlotWithLabels.png)    
