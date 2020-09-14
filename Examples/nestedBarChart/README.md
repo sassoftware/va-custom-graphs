@@ -4,7 +4,7 @@ To answer this question I decided to create a nested bar chart using the [SAS® 
 
 In just a short time, I was able to create the report below:
 
-![](./nestedBarChart_1.gif)
+![](./nestedBarChart.gif)
 
 Very interesting!  The custom graph allows us to see which quarter (or season) of the year specific weather events happen.  More so, since the visual is a nested bar chart, we have the ability to see the number of events for each quarter as a proportion of the total events for the year.  The data source for the example report above comes from a set of csv files that are available on the [SAS® Viya® Example Data Sets webpage](https://support.sas.com/documentation/onlinedoc/viya/examples.htm) that contain information about weather events.  However, if you do not wish to extract the data from the [SAS® Viya® Example Data Sets webpage](https://support.sas.com/documentation/onlinedoc/viya/examples.htm), there is some simulated data in this directory which can also work in this example.
 
