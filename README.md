@@ -58,7 +58,7 @@ Some examples of this repository's custom graphs and their respectice SAS Commun
    * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/Three-Steps-to-Building-a-Nested-Bar-Chart/ta-p/682769)
     * [Repository location](./Examples/nestedBarChart)
 
-    ![](./Examples/nestedBarChart/nestedBarChart_1.gif)  
+    ![](./Examples/nestedBarChart/nestedBarChart.gif)  
 
 *  Trend Comparison Line Plot
     * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/3-steps-to-build-a-trend-comparison-line-plot-in-SAS-Visual/ta-p/533266)
