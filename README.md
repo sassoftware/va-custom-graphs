@@ -55,7 +55,7 @@ Some examples of this repository's custom graphs and their respectice SAS Commun
     ![](./Examples/square_area_plot/square_area_plot.png)  
  
 *  Nested Bar Chart
-   <!--* [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/Three-steps-to-building-a-square-area-plot-in-SAS-Visual/ta-p/557966)-->
+   * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/Three-Steps-to-Building-a-Nested-Bar-Chart/ta-p/682769)
     * [Repository location](./Examples/nestedBarChart)
 
     ![](./Examples/nestedBarChart/nestedBarChart_1.gif)  
