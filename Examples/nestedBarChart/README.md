@@ -8,7 +8,7 @@ In just a short time, I was able to create the report below:
 
 Very interesting!  The custom graph allows us to see which quarter (or season) of the year specific weather events happen.  More so, since the visual is a nested bar chart, we have the ability to see the number of events for each quarter as a proportion of the total events for the year.  The data source for the example report above comes from a set of csv files that are available on the [SAS® Viya® Example Data Sets webpage](https://support.sas.com/documentation/onlinedoc/viya/examples.htm) that contain information about weather events.  However, if you do not wish to extract the data from the [SAS® Viya® Example Data Sets webpage](https://support.sas.com/documentation/onlinedoc/viya/examples.htm), there is some simulated data in this directory which can also work in this example.
 
-<!---Get the details on the source data and how to re-create this graph in this SAS Communities Library [article](https://communities.sas.com/t5/SAS-Communities-Library/3-Steps-to-Building-an-Air-Temperature-Circle-Graph/ta-p/620899).--->
+Get the details on the source data and how to re-create this graph in this SAS Communities Library [article](https://communities.sas.com/t5/SAS-Communities-Library/Three-Steps-to-Building-a-Nested-Bar-Chart/ta-p/682769).
 
 This directory contains the needed resources to recreate this custom graph including:
 * Five simulated data sets of weather event data: 
