@@ -6,7 +6,7 @@ I then began to ask myself if I could build an interactive tally sheet in SAS Vi
 
 Pretty Neat!  For this report's data source, the "baseball" dataset available in the "SASHELP" library is used.  The source dataset is also provided on the [SAS® Viya® Example Data Sets webpage](https://support.sas.com/documentation/onlinedoc/viya/examples.htm) website.  In this post, I'll outline three steps to recreate this custom graph and report. Let's get started!
 
-<!---Get the details on the source data and how to re-create this graph in this SAS Communities Library [article](https://communities.sas.com/).--->
+Get the details on the source data and how to re-create this graph in this SAS Communities Library [article](https://communities.sas.com/t5/SAS-Communities-Library/Three-Steps-to-Building-an-Interactive-Tally-Sheet/ta-p/724030).
 
 This directory contains the needed resources to recreate this custom graph including:
 * A JSON file containing the completed custom graph - tallyChartGC.json
