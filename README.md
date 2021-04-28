@@ -59,6 +59,12 @@ Some examples of this repository's custom graphs and their respectice SAS Commun
     * [Repository location](./Examples/nestedBarChart)
 
     ![](./Examples/nestedBarChart/nestedBarChart.gif)  
+
+*  Waterfall Chart with Interactive Subtotals
+   * [SAS Communities article]()
+    * [Repository location](./Examples/dynamicTotalWaterfall)    
+
+    ![](.//Examples/dynamicTotalWaterfall/waterfallChartSubtotalDemo.gif)      
     
 *  Interactive Tally Sheet
    * [SAS Communities article](https://communities.sas.com/t5/SAS-Communities-Library/Three-Steps-to-Building-an-Interactive-Tally-Sheet/ta-p/724030)
