@@ -9,7 +9,7 @@ Pretty Neat!  The report above displays sales data sourced from the "prdsale" da
 
 The user can first see a waterfall chart that has the standard Final (cumulative) bar at the end of the year.  However, if they wish, they can interactively select one or more months and additional cumulative bars appear!
 
-Get the details on the source data and how to re-create this graph in this SAS Communities Library [article]().
+Get the details on the source data and how to re-create this graph in this SAS Communities Library [article](https://communities.sas.com/t5/SAS-Communities-Library/3-Steps-to-Building-Waterfall-Charts-with-Interactive-Subtotals/ta-p/737704).
 
 This directory contains the needed resources to recreate this custom graph including:
 * A JSON file containing the completed custom graph - dynamicTotalWaterfall_CG.json
