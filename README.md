@@ -8,7 +8,7 @@ Additionally each subdirectory contains a README file which links to a communiti
 
 ## Getting Started
 
-After you have downloaded a custom graph json file from this repository, you will need to import it into your SAS Visual Analytics environment.  Instructions on how to import it are located [here](https://go.documentation.sas.com/?docsetId=vaobj&docsetTarget=n1nixuwj79bthfn15ew5dqldpcis.htm&docsetVersion=8.3&locale=en).
+After you have downloaded a custom graph json file from this repository, you will need to import it into your SAS Visual Analytics environment.  Instructions on how to import it are located [here](https://go.documentation.sas.com/doc/en/vacdc/default/vaobj/n1nixuwj79bthfn15ew5dqldpcis.htm).
 
 With the graph successfully imported, you can [add it to a new or existing SAS Visual Analytics report](https://go.documentation.sas.com/?docsetId=vaobj&docsetTarget=n1nixuwj79bthfn15ew5dqldpcis.htm&docsetVersion=8.3&locale=en).
 
