@@ -3,3 +3,11 @@ I love working with scatter plots.  The ability to visualize lots of data points
 I began by opening the [SAS® Graph Builder](https://go.documentation.sas.com/?cdcId=vacdc&cdcVersion=default&docsetId=grbldrug&docsetTarget=titlepage.htm&locale=en) and in just a few minutes, I was able to create the graph below.  First, I took a standard scatter plot, and then I added two vector plots in new cells along the outer x and y axes.  After that, it was just a simple case of sharing some roles and updating the legends!
 
 For this report's data source, the "cars" dataset available in the "SASHELP" library is used. 
+
+![](./ScatterTallyPlot.png)
+
+This branch contains the needed resources to recreate this custom graph including:
+
+* The code to which creates the data set - ScatterTalleyPlot.sas
+* A JSON file containing the completed custom graph - ScatterTallyPlot_CG.json
+* A JSON file containing the completed report - ScatterTallyPlot.json
